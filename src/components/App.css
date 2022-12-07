@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	font-size: 24px;
+	background-color: black;
+}
+.isLoaded {
+	color: beige;
+	font-size: 30px;
+	margin-top: 80px;
+}
