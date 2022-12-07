@@ -1,0 +1,10 @@
+li {
+	list-style: none;
+	font-weight: 600;
+	text-align: center;
+	background-color: azure;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: 10px auto;
+	width: 70vw;
+}
